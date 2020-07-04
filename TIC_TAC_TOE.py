@@ -1,3 +1,4 @@
+# Krish Shah Monteiro 
 Python.display import clear_output
 def draw_board(board):
     clear_output()
@@ -100,6 +101,8 @@ def winner_logic(board):
 
     return (X_won,O_won,neither_wins)
 
+
+#this is the main or the structure 
 print('--- TIC TAC TOE ---')
 
 grid = ['_','_','_','_','_','_','_','_','_']
